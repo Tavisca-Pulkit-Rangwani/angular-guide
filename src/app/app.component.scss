@@ -1,0 +1,31 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+
+
+.box {
+  display: block;
+  border: 2px solid;
+  border-radius: 5px;
+}
+
+.small-box {
+  width: 20px;
+  height: 20px;
+}
+
+
+.large-box {
+  width: 40px;
+  height: 40px;
+}
+
+.red-box {
+  background-color:red;
+}
+
+.blue-box {
+
+  background-color:blue;
+}
